@@ -1,9 +1,11 @@
 # QR_code_Generator
-Welcome to the QR Code Generator and Scanner project
-For generate QR code
+Welcome to the QR Code Generator and Scanner project......
+_____________________________________
+For generate QR code.......
 QRCode>>src>>main>>java>>org>>mycode>>Main.java
+_____________________________________
 For scan the QR code
 QRCode>>src>>main>>java>>org>>mycode>>QRScanner.java
-
+________________________________________
 Copy the Main.java file code and relocate the Path...
 And you ready to execute the code.....
